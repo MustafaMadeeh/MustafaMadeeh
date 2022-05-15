@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @MustafaMadeeh
-- 👀 I’m interested in web development
-- 📫 you can reach me in telegram or email
+-  Hi, I’m @MustafaMadeeh
+-  I’m interested in web development
+-  you can reach me in email
