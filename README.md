@@ -1,10 +1,6 @@
-# 💫 About Me:
 🔭 I’m currently working on A Laravel PHP web app with modern tools like Bootstrap CSS and Livewire.
-
 👯 I’m looking to collaborate on Web development projects with dynamic features.
-
 🤝 I’m looking for help with Exploring advanced Laravel features.
-
 🌱 I’m currently learning Livewire And improving my Laravel skills.
 
 
